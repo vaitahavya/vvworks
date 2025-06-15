@@ -1,0 +1,23 @@
+{
+  "short_name": "Sreedrisya",
+  "name": "Sreedrisya Media - Video Production Kerala",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#1a202c",
+  "description": "Cinematic video production for brands, events, and creatives in Kerala.",
+  "orientation": "portrait"
+} 

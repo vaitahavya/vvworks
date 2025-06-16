@@ -1,0 +1,121 @@
+{
+  "master": {
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Setup Project Repository",
+        "description": "Initialize the project structure with necessary directories and files",
+        "details": "Create the project folder structure with src, public, and config directories. Set up package.json with React, Tailwind CSS, Framer Motion, and required dependencies. Configure TypeScript if needed.",
+        "testStrategy": "Verify folder structure and package.json contents match expected setup",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 2,
+        "title": "Implement Color Palette",
+        "description": "Apply brand colors to the UI components",
+        "details": "Create a Tailwind CSS config file with the provided color palette. Apply color classes to buttons, headers, and background elements. Ensure color contrast meets accessibility standards.",
+        "testStrategy": "Check color application across all UI elements and verify contrast ratios",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 3,
+        "title": "Create Navigation Component",
+        "description": "Develop a responsive navigation bar with links to all sections",
+        "details": "Implement a sticky navigation bar with dropdown menus for services. Add scroll-to-section functionality. Ensure mobile responsiveness with hamburger menu.",
+        "testStrategy": "Verify navigation works across devices and sections are correctly linked",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 4,
+        "title": "Design Hero Section",
+        "description": "Implement the cinematic hero section with video background and CTAs",
+        "details": "Embed a video loop as background. Add the tagline and buttons for 'View Our Work' and 'Let’s Talk'. Implement hover effects for buttons using Tailwind and Framer Motion.",
+        "testStrategy": "Confirm video plays correctly and buttons trigger expected actions",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 5,
+        "title": "Implement Philosophy Block",
+        "description": "Create the scroll-animated reveal for the three-word philosophy section",
+        "details": "Use Framer Motion to create a scroll-triggered animation. Display the words 'Creative. Meaningful. Effective.' with a fade-in effect as the user scrolls.",
+        "testStrategy": "Verify animation triggers on scroll and text appears correctly",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 6,
+        "title": "Build Featured Projects Carousel",
+        "description": "Develop a responsive carousel for showcasing featured projects",
+        "details": "Create a carousel component with thumbnail previews, project names, and short descriptions. Implement click-to-preview functionality using YouTube embeds or modals.",
+        "testStrategy": "Test carousel navigation and ensure project details are displayed correctly",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 7,
+        "title": "Create Client Types Section",
+        "description": "Implement icons and labels for different client types",
+        "details": "Design and layout icons for Startups, Corporates, Agencies, Govt, MSMEs. Add hover effects and labels. Ensure responsiveness across devices.",
+        "testStrategy": "Verify icons and labels are visible and interactive on all screen sizes",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 8,
+        "title": "Develop Video Services Section",
+        "description": "Implement the service blocks and how we work timeline",
+        "details": "Create an icon grid for video services. Design a visual timeline for the 4-step process: Script → Shoot → Edit → Deliver. Add a showreel embed with autoplay on scroll.",
+        "testStrategy": "Check service blocks and timeline display correctly with autoplay functionality",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 9,
+        "title": "Implement Packages Section",
+        "description": "Create pricing cards for video production packages",
+        "details": "Design and layout pricing cards for Starter, Advanced, and Campaign Film Packs. Include CTA buttons for enquire and let’s talk. Ensure pricing is clearly visible.",
+        "testStrategy": "Verify pricing cards display correctly and CTAs function as expected",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      },
+      {
+        "id": 10,
+        "title": "Set Up Contact Form and Social Links",
+        "description": "Develop the contact form and integrate social media links",
+        "details": "Create a form with fields for name, email, mobile, project type, and message. Integrate with Brevo/Formspree/Hubspot. Add WhatsApp, Instagram, and Calendly links.",
+        "testStrategy": "Test form submission and verify social links open correctly",
+        "priority": "medium",
+        "dependencies": [],
+        "status": "pending",
+        "subtasks": []
+      }
+    ],
+    "metadata": {
+      "created": "2025-06-15T08:31:28.199Z",
+      "updated": "2025-06-15T08:31:28.199Z",
+      "description": "Tasks for master context"
+    }
+  }
+}

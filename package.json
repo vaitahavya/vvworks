@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^7.6.2"
+  },
+  "devDependencies": {
+    "@types/react-helmet": "^6.1.11"
+  }
+}

@@ -1,0 +1,260 @@
+Here's your full **PRD (Product Requirements Document)** for the **Sreedrisya Media website redesign**, including a derived **color palette** from your uploaded logo, in a clean **Markdown format** ready for handoff.
+
+---
+
+# 📄 Sreedrisya Media Website – Product Requirements Document (PRD)
+
+## 🎯 Project Overview
+
+**Sreedrisya Media** is a cinematic storytelling and media production company. This website redesign focuses on elevating the brand perception by showcasing video production as the **primary offering**, supported by digital and creative services. Inspired by **Bearfruit Productions** and **Ogilvy**, the design will be cinematic, bold, and strategically structured to convert leads.
+
+---
+
+## 🎨 Brand Color Palette (Derived from Logo)
+
+| Color Usage       | Hex Code  | Description                  |
+| ----------------- | --------- | ---------------------------- |
+| Primary Red-Coral | `#F16666` | Base background, CTA hover   |
+| Deep Maroon       | `#5A0A0A` | Typography highlight, button |
+| Bright Yellow     | `#FFE028` | Accent / Hover effects       |
+| Royal Blue        | `#002E6D` | Detail text, gradient use    |
+| Midnight Navy     | `#0B0F1E` | Background / text contrast   |
+
+---
+
+## 🧭 Website Navigation
+
+```
+[ Home ]
+[ Our Work ]
+[ Video Services ]
+[ Packages ]
+[ Other Services ]
+[ About Us ]
+[ Testimonials ]
+[ Let’s Talk ]
+```
+
+---
+
+## 🏠 Homepage
+
+### Design Intent:
+
+Cinematic, immersive, and clean. Clear CTAs. Video-forward design.
+
+### Sections:
+
+1. **Hero Section**
+
+   * Video loop background
+   * Tagline: *“Visual Storytelling That Moves People”*
+   * Buttons: \[View Our Work] | \[Let’s Talk]
+
+2. **Philosophy Block**
+
+   * Three Words: *Creative. Meaningful. Effective.*
+   * Scroll-animated reveal
+
+3. **Featured Projects Carousel**
+
+   * 4–6 of your best works
+   * Click to preview
+
+4. **Client Types**
+
+   * Icons + Labels: Startups, Corporates, Agencies, Govt, MSMEs
+
+5. **Trusted By Logos**
+
+   * Logo grid or slider
+
+6. **Preview of Packages Section**
+
+   * Short CTA block linking to pricing
+
+7. **Footer**
+
+   * Quick Links
+   * Instagram / YouTube / WhatsApp / Contact
+
+---
+
+## 🎬 Our Work
+
+### Type: Portfolio Grid
+
+* Filterable:
+  *Brand Films* | *Corporate Videos* | *Explainers* | *Ads* | *Event Films*
+
+* Each Tile:
+
+  * Thumbnail preview
+  * Project Name
+  * Short Line
+  * Inline YouTube embed or modal
+
+---
+
+## 🎥 Video Services
+
+### Primary Offering
+
+#### Sections:
+
+1. **Hero Title:**
+   *“We Build Impact Through Cinematic Communication”*
+
+2. **Service Blocks (Icon Grid Style):**
+
+   * Brand Films
+   * Corporate Stories
+   * Product Videos
+   * Explainers
+   * Event Documentation
+   * Social Reels
+
+3. **How We Work**
+
+   * 4 Steps: Script → Shoot → Edit → Deliver
+   * Visual timeline layout
+
+4. **Showreel Embed**
+
+   * Background autoplay on scroll
+   * CTA: \[Book Your Video Project]
+
+---
+
+## 💰 Packages
+
+### 📽️ Video Production Packages (Primary Focus)
+
+#### 🎬 Starter Brand Film
+
+**₹75,000**
+
+* 1 Day Shoot
+* 60-second Edit
+* Script & Direction
+* Voiceover + Music
+* 4K Delivery
+  → \[Enquire Now]
+
+#### 📺 Advanced Brand Film
+
+**₹1,50,000**
+
+* 2-Day Shoot
+* Two Versions: 60 & 120 sec
+* Concept, Voice, Location
+* 2 Reels (Cutdowns)
+  → \[Let’s Talk]
+
+#### 🎯 Campaign Film Pack
+
+**₹3,50,000+**
+
+* 3–5 Short Films
+* Reels + Brand Strategy
+* Custom Score, Storyboard
+  → \[Schedule a Strategy Call]
+
+---
+
+### 📊 Creative + Digital Services (Secondary)
+
+#### ✨ Essentials Visual Boost
+
+**₹25,000/month**
+
+* 3 Posts / Week
+* 1 Reel / Month
+* Basic Copy & Captioning
+  → \[Get Started]
+
+#### 🔥 Brand Builder Plan
+
+**₹75,000/month**
+
+* 15 Posts
+* 3 Reels
+* Paid Ad Strategy
+* Monthly Report
+  → \[Talk to Team]
+
+---
+
+## 🧩 Other Services
+
+Grouped under a single page with icon tiles:
+
+* Branding & Identity
+* Commercial Photography
+* Social Media Content
+* Ad Campaigns
+* Explainer Videos
+* Offline Collateral (Standees, Posters)
+
+---
+
+## 🧑‍💼 About Us
+
+* About the Brand
+* Mission + Story
+* 12+ Years Experience
+* Team Grid
+
+  * Vaitahavya – CEO & Director
+  * Rudra – Content Head
+ 
+* Tagline: *“Where Strategy Meets Storytelling”*
+
+---
+
+## 💬 Testimonials
+
+* Client Logos + Quotes
+* Carousel Format or Grid
+* Option for Embedded Video Testimonials
+
+---
+
+## 📬 Let’s Talk
+
+Form Fields:
+
+* Name
+* Email
+* Mobile
+* Project Type (Dropdown)
+* Message
+
+Also includes:
+
+* WhatsApp Link
+* Instagram Handle
+* Schedule a Call (Calendly-style link)
+
+---
+
+## 🧰 Technical Recommendations
+
+* **Frontend**: React + Tailwind
+* **Video Embed**: YouTube + Self-hosted backup
+* **Hosting**: Vercel / Netlify
+* **Forms**: Brevo / Formspree / Hubspot
+* **Animations**: Framer Motion
+* **Analytics**: Google Analytics + Meta Pixel
+* **CMS (optional)**: Sanity / Strapi
+
+---
+
+## ✅ Success Criteria
+
+* Lead generation for video production (minimum 40% of site conversion)
+* Bold visual identity aligned with film aesthetics
+* Mobile-friendly, fast-loading, story-focused
+* Easy-to-maintain modular backend (optional CMS)
+
+
